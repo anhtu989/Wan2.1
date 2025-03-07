@@ -1,4 +1,4 @@
-# Wan2.1
+<!-- TODO: 需要补充更多细节 -->
 
 <p align="center">
     <img src="assets/logo.png" width="400"/>
